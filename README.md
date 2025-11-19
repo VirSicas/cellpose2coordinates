@@ -31,7 +31,16 @@ Complete workflow for cell segmentation and tracking with persistent cell IDs.
 - Fourier analysis of cell dynamics
 - Spatial-temporal analysis
 
+# Test README
 
+Here is a BibTeX test:
+
+```bibtex
+@article{test2025,
+  title = {Test Entry},
+  author = {Author, A.},
+  year = {2025}
+}```
 
 # Cellpose Enhanced QC & Tracking Export Pipeline
 
