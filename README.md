@@ -272,11 +272,14 @@ If you use this modified workflow in your research, please cite:
 ### Original Cellpose-SAM:
 ```bibtex
 @article{pachitariu2025cellpose,
-  title={Cellpose-SAM: superhuman generalization for cellular segmentation},
-  author={Pachitariu, Marius and Rariden, Michael and Stringer, Carsen},
-  journal={bioRxiv},
-  year={2025},
-  doi={10.1101/2025.04.28.651001}
+  title        = {Cellpose-SAM: superhuman generalization for cellular segmentation},
+  author       = {Pachitariu, Marius and Rariden, Michael and Stringer, Carsen},
+  journal      = {bioRxiv},
+  year         = {2025},
+  doi          = {10.1101/2025.04.28.651001},
+  url          = {https://www.biorxiv.org/content/10.1101/2025.04.28.651001v1},
+  publisher    = {Cold Spring Harbor Laboratory},
+  note         = {bioRxiv preprint}
 }
 ```
 
