@@ -40,7 +40,8 @@ Here is a BibTeX test:
   title = {Test Entry},
   author = {Author, A.},
   year = {2025}
-}```
+}
+```
 
 # Cellpose Enhanced QC & Tracking Export Pipeline
 
