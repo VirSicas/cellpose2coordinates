@@ -283,6 +283,7 @@ If you use this modified workflow in your research, please cite:
 }
 ```
 
+
 ### Original Cellpose
 ```bibtex
 @article{stringer2021cellpose,
@@ -296,7 +297,7 @@ If you use this modified workflow in your research, please cite:
   doi          = {10.1038/s41592-020-01018-x},
   publisher    = {Springer Nature}
 }
-
+```
 ## License
 
 **This modified version:** CC BY 4.0  
