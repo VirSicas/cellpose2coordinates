@@ -283,18 +283,19 @@ If you use this modified workflow in your research, please cite:
 }
 ```
 
-### Original Cellpose:
+### Original Cellpose
 ```bibtex
 @article{stringer2021cellpose,
-  title={Cellpose: a generalist algorithm for cellular segmentation},
-  author={Stringer, Carsen and Wang, Tim and Michaelos, Michalis and Pachitariu, Marius},
-  journal={Nature methods},
-  volume={18},
-  number={1},
-  pages={100--106},
-  year={2021}
+  title        = {Cellpose: a generalist algorithm for cellular segmentation},
+  author       = {Stringer, Carsen and Wang, Tim and Michaelos, Michalis and Pachitariu, Marius},
+  journal      = {Nature Methods},
+  volume       = {18},
+  number       = {1},
+  pages        = {100--106},
+  year         = {2021},
+  doi          = {10.1038/s41592-020-01018-x},
+  publisher    = {Springer Nature}
 }
-```
 
 ## License
 
