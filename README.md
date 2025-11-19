@@ -260,6 +260,7 @@ This notebook is based on:
 If you use this modified workflow in your research, please cite:
 
 ### This Modified Version:
+
 ```bibtex
 @software{yourname2025cellpose_tracking,
   author = {Your Name},
@@ -270,6 +271,7 @@ If you use this modified workflow in your research, please cite:
 ```
 
 ### Original Cellpose-SAM:
+
 ```bibtex
 @article{pachitariu2025cellpose,
   title        = {Cellpose-SAM: superhuman generalization for cellular segmentation},
@@ -285,6 +287,7 @@ If you use this modified workflow in your research, please cite:
 
 
 ### Original Cellpose
+
 ```bibtex
 @article{stringer2021cellpose,
   title        = {Cellpose: a generalist algorithm for cellular segmentation},
