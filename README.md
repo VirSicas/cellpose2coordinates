@@ -262,7 +262,7 @@ If you use this modified workflow in your research, please cite:
 
 ```bibtex
 @software{yourname2025cellpose_tracking,
-  author = {Your Name},
+  author = {Virginia Silio},
   title = {Cellpose Enhanced QC and Tracking Export Pipeline},
   year = {2025},
   url = {https://github.com/YOUR-USERNAME/cellpose-tracking-export}
@@ -326,11 +326,11 @@ Improvements welcome:
 
 ## Author
 
-**Your Name**  
-[Your Institution]  
-[Contact - optional: email or Twitter/LinkedIn]
+**Virginia Silio**  
+[University College London]  
 
-Project Link: https://github.com/YOUR-USERNAME/cellpose-tracking-export
+
+Project Link: https://github.com/VirSicas/cellpose-tracking-export
 
 ---
 
@@ -341,3 +341,7 @@ Project Link: https://github.com/YOUR-USERNAME/cellpose-tracking-export
 - QC visualization enhancements
 - Structured output organization
 - Comprehensive documentation
+
+### Version 1.0.1 (2026-01)
+- Added a folder with example from
+
