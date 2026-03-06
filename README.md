@@ -36,7 +36,7 @@ Complete workflow for cell segmentation and tracking with persistent cell IDs.
 
 Modified Cellpose-SAM workflow with quality control features and enhanced export compatibility for tracking tools (TrackMate-FIJI and ultrack).
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/cellpose-tracking-export/blob/main/notebooks/cellpose_enhanced_qc.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VirSicas/cellpose-tracking-export/blob/main/notebooks/cellpose_enhanced_qc.ipynb)
 
 ## Overview
 
