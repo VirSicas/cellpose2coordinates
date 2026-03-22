@@ -13,7 +13,7 @@
  *   - Consistent zero-based naming
  *   - Configurable time series chunking with overlap
  * 
- * Requires: Bio-Formats plugin (Fiji: Plugins > Bio-Formats)
+ * 
  */
 
 setBatchMode(true);

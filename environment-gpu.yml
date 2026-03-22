@@ -1,0 +1,23 @@
+name: cellpose_tracking_gpu
+channels:
+  - conda-forge
+  - pytorch
+  - nvidia
+
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-image
+  - scipy
+  - tifffile
+  - pytorch
+  - torchvision
+  - pytorch-cuda=12.1
+  - jupyterlab
+  - ipykernel
+  - pip
+  - pip:
+      - cellpose
+      - opencv-python

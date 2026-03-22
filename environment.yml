@@ -1,7 +1,6 @@
 name: cellpose-tracking
 channels:
   - conda-forge
-  - defaults
 dependencies:
   - python=3.10
   - numpy
@@ -9,10 +8,12 @@ dependencies:
   - matplotlib
   - scikit-image
   - scipy
-  - opencv
   - tifffile
-  - jupyter
-  - notebook
+  - pytorch
+  - torchvision
+  - cpuonly
+  - jupyterlab
   - pip
   - pip:
       - cellpose
+      - opencv-python
